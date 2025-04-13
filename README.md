@@ -1,14 +1,14 @@
 <!-- Banner animado arriba -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola,%20soy%20Gabo!&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20plugins%20Minecraft&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola,%20soy%20Gabo!&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20plugins%20Minecraft%20%26%20extensiones%20VS%20Code&descAlignY=60&descAlign=50" />
 </p>
 
 <!-- Presentación -->
 <h2 align="center">👨‍💻 Full Stack de bloques y código ⚒️</h2>
 
 <p align="center">
-  🎮 Desarrollador de <strong>plugins para Minecraft</strong> <br/>
-  🧩 Amante de la lógica, sistemas complejos y la creación de mundos virtuales<br/>
+  🎮 Desarrollador de <strong>plugins para Minecraft</strong> y <strong>extensiones para VS Code</strong><br/>
+  🧩 Amante de la lógica y sistemas complejos<br/>
   🚀 Siempre explorando nuevas ideas con pasión y creatividad
 </p>
 
@@ -21,20 +21,24 @@
   <img src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge&logo=spigotmc&logoColor=white" />
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🧪 Proyectos que estoy creando
+### 🧪 Proyectos Destacados
 
-💡 Todos mis proyectos están orientados a mejorar la experiencia dentro de **Minecraft**, tanto para jugadores como para servidores.
+💡 Todos mis proyectos están enfocados en mejorar la experiencia de desarrollo y juego dentro y fuera de Minecraft.
 
-- 🕵️‍♂️ **The Watcher** – Un Dweller que aparece, desaparece y te acecha desde lejos 👀  
-- 🕷️ **Araña Transformadora** – Un NPC que se transforma entre mob y humanoide según tu cercanía 🧟  
-- ⚔️ **PvP Bot 1.8.9** – Un oponente 1v1 para practicar como si fuera un jugador real 🥷  
+#### 🧩 Plugins para Minecraft (2025)
+- 👻 **NovaHalloween** – Plugin de terror atmosférico para servidores: jumpscares, sonidos y dwellers personalizados 🎃🌫️  
 
-> 🤖 Mis proyectos usan **Spigot**, **Citizens**, y lógica personalizada en **Java**
+#### 💻 Extensiones para Visual Studio Code
+- 🧱 **Minecraft Plugin Development** – Extensión para facilitar el desarrollo de plugins con plantillas, comandos automáticos y snippets ⚡
+
+> 🤖 Todos los plugins están desarrollados en **Java** con **Spigot**, y las extensiones en **JavaScript**
 
 ---
 
@@ -56,24 +60,14 @@
 
 ---
 
+> ⚡ *"El código es como la magia... solo que compila más seguido 😉"*
+
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
 </p>
-
-> ⚡ *"El código es como la magia... solo que compila más seguido 😉"*
 
 <!-- Footer decorativo -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 
-
----
-
-### 📬 Contacto
-- Discord: `gaboh_`
-- Email: [gaboagmi4@gmail.com]
-
----
-
-> ⚡ *Siempre buscando mejorar, aprender y compartir conocimiento. ¡Bienvenido a mi mundo de código!*
