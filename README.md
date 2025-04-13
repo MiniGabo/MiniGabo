@@ -1,7 +1,7 @@
 <!-- Banner animado arriba -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AF598,100:009EFD&height=200&section=header&text=¡Hola,%20soy%20Gabo!&fontSize=45&fontAlignY=35&desc=Desarrollador%20de%20plugins%20Minecraft%20%26%20extensiones%20VS%20Code&descAlignY=60&descAlign=50&animation=twinkling" />
-</p>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola,%20soy%20Gabo!&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20plugins%20Minecraft&descAlignY=60&descAlign=50" />
+ </p>
 
 <!-- GIF divertido de bienvenida -->
 <p align="center">
