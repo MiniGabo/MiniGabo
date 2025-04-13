@@ -1,13 +1,13 @@
 <!-- Banner animado arriba -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola,%20soy%20MiniGabo!&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20plugins%20Minecraft&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola,%20soy%20Gabo!&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20plugins%20Minecraft&descAlignY=60&descAlign=50" />
 </p>
 
 <!-- Presentación -->
 <h2 align="center">👨‍💻 Full Stack de bloques y código ⚒️</h2>
 
 <p align="center">
-  🎮 Desarrollador de <strong>plugins personalizados para Minecraft</strong> <br/>
+  🎮 Desarrollador de <strong>plugins para Minecraft</strong> <br/>
   🧩 Amante de la lógica, sistemas complejos y la creación de mundos virtuales<br/>
   🚀 Siempre explorando nuevas ideas con pasión y creatividad
 </p>
@@ -28,7 +28,7 @@
 
 ### 🧪 Proyectos que estoy creando
 
-💡 Todos mis proyectos están orientados a mejorar la experiencia dentro del mundo de **Minecraft**, tanto para jugadores como para servidores.
+💡 Todos mis proyectos están orientados a mejorar la experiencia dentro de **Minecraft**, tanto para jugadores como para servidores.
 
 - 🕵️‍♂️ **The Watcher** – Un Dweller que aparece, desaparece y te acecha desde lejos 👀  
 - 🕷️ **Araña Transformadora** – Un NPC que se transforma entre mob y humanoide según tu cercanía 🧟  
@@ -50,13 +50,11 @@
 ### 📫 ¿Dónde encontrarme?
 
 <p align="center">
-  <a href="https://discord.com/users/TuDiscordID"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/753439327668666390"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:gaboagmi4@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
-
-### 🎉 Bonus: Gif motivacional
 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
@@ -73,8 +71,8 @@
 ---
 
 ### 📬 Contacto
-- Discord: `MiniGabo#1234`
-- Email: [tuemail@example.com]
+- Discord: `gaboh_`
+- Email: [gaboagmi4@gmail.com]
 
 ---
 
