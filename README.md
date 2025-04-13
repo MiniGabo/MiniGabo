@@ -1,7 +1,7 @@
 <!-- Banner animado arriba -->
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola,%20soy%20Gabo!&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20plugins%20Minecraft&descAlignY=60&descAlign=50" />
- </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola,%20soy%20Gabo!&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20plugins%20Minecraft%20%26%20extensiones%20VS%20Code&descAlignY=60&descAlign=50" />
+</p>
 
 <!-- GIF divertido de bienvenida -->
 <p align="center">
@@ -98,8 +98,6 @@ Herramientas para crear plugins fácilmente: snippets, plantillas, comandos auto
 <a href="https://marketplace.visualstudio.com/items?itemName=Gabodev.minecraft-plugin-development" target="_blank">
   <img src="https://img.shields.io/badge/Disponible%20en-VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
-
-
 
 > 🤖 Todos los plugins están desarrollados en **Java** con **Spigot**, y las extensiones en **JavaScript**
 
