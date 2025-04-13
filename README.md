@@ -1,7 +1,8 @@
 <!-- Animated banner at the top -->
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Gabo!&fontSize=40&fontAlignY=35&desc=Minecraft%20Plugin%20Developer%20%26%20VS%20Code%20Extensions&descAlignY=60&descAlign=50" />
- </p>
+</p>
+
  
 <!-- Fun welcome GIF -->
 <p align="center">
