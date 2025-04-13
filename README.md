@@ -30,13 +30,79 @@
 
 ### 🧪 Proyectos Destacados
 
-💡 Todos mis proyectos están enfocados en mejorar la experiencia de desarrollo y juego dentro y fuera de Minecraft.
+💡 Todos mis proyectos están orientados a mejorar la experiencia de desarrollo y juego dentro y fuera de Minecraft, con un enfoque en calidad, personalización y rendimiento.
+
+---
 
 #### 🧩 Plugins para Minecraft (2025)
-- 👻 **NovaHalloween** – Plugin de terror atmosférico para servidores: jumpscares, sonidos y dwellers personalizados 🎃🌫️  
+
+##### 👻 NovaHalloween  
+Plugin de terror atmosférico con jumpscares, sonidos inmersivos y dwellers personalizados para eventos 🎃
+
+<a href="???" target="???">
+  <img src="https://img.shields.io/badge/Descargar%20en-SpigotMC-orange?style=for-the-badge&logo=spigotmc&logoColor=white" />
+</a>
+
+---
+
+##### 🐾 NovaPets  
+Agrega mascotas con niveles, trucos, mejoras de atributos y cosméticos 🐶✨
+
+<a href="https://polymart.org/product/7208/novapets" target="_blank">
+  <img src="https://img.shields.io/badge/Descargar%20en-PolyMart-orange?style=for-the-badge&logo=polymart&logoColor=white" />
+</a>
+
+<a href="https://builtbybit.com/resources/novapets.60216/" target="_blank">
+  <img src="https://img.shields.io/badge/Descargar%20en-BuiltByBit-orange?style=for-the-badge&logo=builtbybit&logoColor=white" />
+</a>
+
+---
+
+##### 🧱 NovaBreezly  
+Plugin completo para la modalidad *Fast Builders / Breezly*, incluye sistema de replays 🎥
+
+<a href="???" target="???">
+  <img src="https://img.shields.io/badge/Descargar%20en-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+##### ⛏️ AdvancedMiner  
+NPC que mina por ti en PrisonOp, con encantamientos y niveles personalizados 🔧⚒️
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Descargar%20en-SpigotMC-orange?style=for-the-badge&logo=spigotmc&logoColor=white" />
+</a>
+
+---
+
+##### 🗿 AdvancedPillars  
+Controla la modalidad *Pilares de la Fortuna*, una experiencia de suerte y estrategia 🎲
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Descargar%20en-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+##### 🧪 Untied  
+Mi primer plugin: sistema de administración de servidores completo y totalmente configurable 🛠️
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Descargar%20en-SpigotMC-orange?style=for-the-badge&logo=spigotmc&logoColor=white" />
+</a>
+
+---
 
 #### 💻 Extensiones para Visual Studio Code
-- 🧱 **Minecraft Plugin Development** – Extensión para facilitar el desarrollo de plugins con plantillas, comandos automáticos y snippets ⚡
+
+##### 🧱 Minecraft Plugin Development  
+Herramientas para crear plugins fácilmente: snippets, plantillas, comandos automáticos y estructuras base para Spigot ⚡
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Disponible%20en-VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</a>
+
 
 > 🤖 Todos los plugins están desarrollados en **Java** con **Spigot**, y las extensiones en **JavaScript**
 
