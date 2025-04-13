@@ -37,11 +37,8 @@
 #### 🧩 Plugins para Minecraft (2025)
 
 ##### 👻 NovaHalloween  
-Plugin de terror atmosférico con jumpscares, sonidos inmersivos y dwellers personalizados para eventos 🎃
-
-<a href="???" target="???">
-  <img src="https://img.shields.io/badge/Descargar%20en-SpigotMC-orange?style=for-the-badge&logo=spigotmc&logoColor=white" />
-</a>
+Plugin de terror atmosférico con jumpscares, sonidos inmersivos y dwellers personalizados para eventos 🎃  
+🔒 <span style="color: gray;"><em>Este plugin aún no está publicado</em></span>
 
 ---
 
@@ -59,36 +56,30 @@ Agrega mascotas con niveles, trucos, mejoras de atributos y cosméticos 🐶✨
 ---
 
 ##### 🧱 NovaBreezly  
-Plugin completo para la modalidad *Fast Builders / Breezly*, incluye sistema de replays 🎥
-
-<a href="???" target="???">
-  <img src="https://img.shields.io/badge/Descargar%20en-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Plugin completo para la modalidad *Fast Builders / Breezly*, incluye sistema de replays 🎥  
+🔒 <span style="color: gray;"><em>Este plugin aún no está publicado</em></span>
 
 ---
 
 ##### ⛏️ AdvancedMiner  
 NPC que mina por ti en PrisonOp, con encantamientos y niveles personalizados 🔧⚒️
 
-<a href="#" target="_blank">
+<a href="https://builtbybit.com/resources/advancedminer-miner-plugin.47789/" target="_blank">
   <img src="https://img.shields.io/badge/Descargar%20en-SpigotMC-orange?style=for-the-badge&logo=spigotmc&logoColor=white" />
 </a>
 
 ---
 
 ##### 🗿 AdvancedPillars  
-Controla la modalidad *Pilares de la Fortuna*, una experiencia de suerte y estrategia 🎲
-
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Descargar%20en-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Controla la modalidad *Pilares de la Fortuna*, una experiencia de suerte y estrategia 🎲  
+🔒 <span style="color: gray;"><em>Este plugin aún no está publicado</em></span>
 
 ---
 
 ##### 🧪 Untied  
 Mi primer plugin: sistema de administración de servidores completo y totalmente configurable 🛠️
 
-<a href="#" target="_blank">
+<a href="https://www.spigotmc.org/resources/untied-staff-plugin.115459/" target="_blank">
   <img src="https://img.shields.io/badge/Descargar%20en-SpigotMC-orange?style=for-the-badge&logo=spigotmc&logoColor=white" />
 </a>
 
@@ -99,9 +90,10 @@ Mi primer plugin: sistema de administración de servidores completo y totalmente
 ##### 🧱 Minecraft Plugin Development  
 Herramientas para crear plugins fácilmente: snippets, plantillas, comandos automáticos y estructuras base para Spigot ⚡
 
-<a href="#" target="_blank">
+<a href="https://marketplace.visualstudio.com/items?itemName=Gabodev.minecraft-plugin-development" target="_blank">
   <img src="https://img.shields.io/badge/Disponible%20en-VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
+
 
 
 > 🤖 Todos los plugins están desarrollados en **Java** con **Spigot**, y las extensiones en **JavaScript**
