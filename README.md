@@ -40,53 +40,19 @@
 
 ---
 
-#### 🧩 Minecraft Plugins (2025)
+#### 🧩 Minecraft Plugins
 
-##### 👻 NovaHalloween  
-Atmospheric horror plugin with jumpscares, immersive sounds, and custom dwellers 🎃  
+##### ⚔️ MysthicKnockBack
+Complete core for KnockBack FFA mode with advanced combat system, dynamic rankings, and game mechanics optimized for maximum fun. 
 🔒 <span style="color: gray;"><em>This plugin is not yet published</em></span>
 
 ---
 
-##### 🐾 NovaPets  
-Adds pets with levels, tricks, attribute upgrades, and cosmetics 🐶✨
+### Portfolio
+Creating unique experiences and innovative features for Minecraft servers. I turn ideas into powerful and efficient plugins.
 
-<a href="https://polymart.org/product/7208/novapets" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20on-PolyMart-orange?style=for-the-badge&logo=polymart&logoColor=white" />
-</a>
-
-<a href="https://builtbybit.com/resources/novapets.60216/" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20on-BuiltByBit-orange?style=for-the-badge&logo=builtbybit&logoColor=white" />
-</a>
-
----
-
-##### 🧱 NovaBreezly  
-Complete plugin for the *Fast Builders / Breezly* mode, includes replay system 🎥  
-🔒 <span style="color: gray;"><em>This plugin is not yet published</em></span>
-
----
-
-##### ⛏️ AdvancedMiner  
-NPC that mines for you in PrisonOp, with enchantments and custom levels 🔧⚒️
-
-<a href="https://builtbybit.com/resources/advancedminer-miner-plugin.47789/" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20on-SpigotMC-orange?style=for-the-badge&logo=spigotmc&logoColor=white" />
-</a>
-
----
-
-##### 🗿 AdvancedPillars  
-Controls the *Pillars of Fortune* mode, a luck and strategy experience 🎲  
-🔒 <span style="color: gray;"><em>This plugin is not yet published</em></span>
-
----
-
-##### 🧪 Untied  
-My first plugin: a complete server management system, fully customizable 🛠️
-
-<a href="https://www.spigotmc.org/resources/untied-staff-plugin.115459/" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20on-SpigotMC-orange?style=for-the-badge&logo=spigotmc&logoColor=white" />
+<a href="https://gaboh.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Web%20-007ACC?style=for-the-badge&logo=minecraft&logoColor=white" />
 </a>
 
 ---
@@ -116,8 +82,7 @@ Tools to easily create plugins: snippets, templates, auto commands, and base str
 ### 📫 Where to Find Me?
 
 <p align="center">
-  <a href="https://discord.com/users/753439327668666390"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:gaboagmi4@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/kGgC39ufjs"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
@@ -132,7 +97,3 @@ Tools to easily create plugins: snippets, templates, auto commands, and base str
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
-
-
-
